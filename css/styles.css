@@ -140,3 +140,9 @@ See for more info: https://codepen.io/profstein/pen/mrMLRj
     YOUR STYLES
     Add your styles below.
     ========================== */
+
+    nav {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
