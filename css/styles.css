@@ -155,10 +155,11 @@ padding: 10px;
 }
 
    .project-page1{ 
-      background-color: #9276b0;
+      background-color: #c8bad6;
      display: grid;
   grid-template-columns: 2fr 2fr ;
-  grid-column-gap: 2em;
+  grid-column-gap: 1em;
+        grid-column: 3; 
        padding: 10px;
 }
 
