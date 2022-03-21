@@ -141,6 +141,9 @@ See for more info: https://codepen.io/profstein/pen/mrMLRj
     Add your styles below.
     ========================== */
 
+.body{
+    background-color: #9276b0
+}
 .layout{
 background-color: #b2a5e8;
 }
