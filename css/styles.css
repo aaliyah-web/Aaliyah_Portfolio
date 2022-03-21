@@ -165,7 +165,7 @@ padding: 10px;
      display: grid;
   grid-template-columns: 2fr 2fr ;
   grid-column-gap: 1em;
-        grid-column: 3; 
+        grid-column:  1 / span 2; 
        padding: 10px;
 }
 
