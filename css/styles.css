@@ -141,6 +141,10 @@ See for more info: https://codepen.io/profstein/pen/mrMLRj
     Add your styles below.
     ========================== */
 
+.layout{
+background-color: #b2a5e8;
+}
+
    .project-page1{
      display: grid;
   grid-template-columns: 2fr 2fr ;
