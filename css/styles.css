@@ -142,17 +142,27 @@ See for more info: https://codepen.io/profstein/pen/mrMLRj
     ========================== */
 
 .body{
-    background-color: #9276b0
+    background-color: #9276b0;
 }
+
 .layout{
 background-color: #b2a5e8;
+}
+
+.project-image{
+display: grid;
+  grid-template-columns: 2fr 2fr;
+  grid-column-gap: 1em;
+  grid-column: 3;    
+padding: 10px;   
+  border: dotted;
 }
 
    .project-page1{
      display: grid;
   grid-template-columns: 2fr 2fr ;
   grid-column-gap: 2em;
-       padding: 
+       padding: 10px;
 }
 
 
@@ -180,7 +190,7 @@ background-color: #b2a5e8;
         row-gap: 1rem; /* adds space between logo and nav items if the items wrap under the logo */
         justify-content: space-between;
         padding: 1.5rem 2rem;
-        background-color: #eaeaea;
+        background-color: #ae9bc2;
         transition: top 500ms ease-in-out;
       }
       
