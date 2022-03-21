@@ -141,12 +141,12 @@ See for more info: https://codepen.io/profstein/pen/mrMLRj
     Add your styles below.
     ========================== */
 
-img,video{
-  width: auto; 
-  height: auto;
-  max-width: 100%; 
+.pageone-text2{
+text-decoration: line-through;
+ text-decoration-color: #ffffff; 
+    letter-spacing: 5px;
+    
 }
-
 
 .project-image{
 background-color: #b2a5e8;
