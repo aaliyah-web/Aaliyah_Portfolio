@@ -149,13 +149,12 @@ See for more info: https://codepen.io/profstein/pen/mrMLRj
 background-color: #b2a5e8;
 }
 
-.project-image{
+.project{
 display: grid;
-  grid-template-columns: 2fr 2fr;
+  grid-template-columns: 2fr 2fr 2fr;
   grid-column-gap: 1em;
   grid-column: 3;    
 padding: 10px;   
-  border: dotted;
 }
 
    .project-page1{
